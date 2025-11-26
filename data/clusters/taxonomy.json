@@ -1,0 +1,471 @@
+[
+    {
+        "cluster_id": "C001",
+        "name": "Shared Engine Update",
+        "description": "Updates to a core engine or shared resources that affect multiple games.",
+        "single_notes": [
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A Half-Life update is now available that affects Day of Defeat through shared resources. \n\nPlease see the Half-Life update notes for details."
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A Half-Life update is now available that affects Deathmatch Classic through shared resources. \n\nPlease see the Half-Life update notes for details."
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A Half-Life update is now available that affects Day of Defeat through shared resources. \n\nPlease see the Half-Life update notes for details."
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A Half-Life update is now available that affects Deathmatch Classic through shared resources. \n\nPlease see the Half-Life update notes for details."
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A Half-Life update is now available that affects Day of Defeat through shared resources. \n\nPlease see the Half-Life update notes for details."
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A Half-Life update is now available that affects Deathmatch Classic through shared resources. \n\nPlease see the Half-Life update notes for details."
+            },
+            {
+                "app_id": "40",
+                "title": "Half-Life gets new patch, almost 19 years after launch",
+                "content": "Though Half-Life [official site] is almost nineteen years old and its sanctioned fan remake Black Mesa is nearing completion, Valve have launched a wee patch for their pretty okay or whatever vintage FPS. The patch fixes a few crashes and exploits, and hit other Half-Life engine games too, such as classic Counter-Strike. Given how much of modern PC games history connects to Half-Life and its mod scene, I’m glad Valve are still tinkering a little. Earlier this year, they finally got Half-Life an uncensored release in Germany too. … [visit site to read more]"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A Half-Life update is now available that affects Day of Defeat through shared resources. \n\nPlease see the Half-Life update notes for details."
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A Half-Life update is now available that affects Deathmatch Classic through shared resources. \n\nPlease see the Half-Life update notes for details."
+            }
+        ]
+    },
+    {
+        "cluster_id": "C002",
+        "name": "Engine & Command Fixes",
+        "description": "Fixes related to the game engine, skybox, demo processing, and command input validation.",
+        "single_notes": [
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A small update for Day of Defeat is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A small update for Deathmatch Classic is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A small update for Day of Defeat is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A small update for Deathmatch Classic is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A small update for Day of Defeat is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A small update for Deathmatch Classic is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "A small update for Day of Defeat is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic update released",
+                "content": "A small update for Deathmatch Classic is now available:\r\n\r\nEngine\r\n\r\n Fixed bug in skybox image loading \r\n Fixed bug in demo command processing\r\n Prevent certain path characters from being used in commands\r\n Enforce certain extensions be used for files specified in some commands"
+            }
+        ]
+    },
+    {
+        "cluster_id": "C003",
+        "name": "Crash & Security Fixes",
+        "description": "Fixes for crashes caused by malformed input, files, and general security vulnerabilities.",
+        "single_notes": [
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Half-Life gets new patch, almost 19 years after launch",
+                "content": "Though Half-Life [official site] is almost nineteen years old and its sanctioned fan remake Black Mesa is nearing completion, Valve have launched a wee patch for their pretty okay or whatever vintage FPS. The patch fixes a few crashes and exploits, and hit other Half-Life engine games too, such as classic Counter-Strike. Given how much of modern PC games history connects to Half-Life and its mod scene, I’m glad Valve are still tinkering a little. Earlier this year, they finally got Half-Life an uncensored release in Germany too. … [visit site to read more]"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Half-Life gets new patch, almost 19 years after launch",
+                "content": "Though Half-Life [official site] is almost nineteen years old and its sanctioned fan remake Black Mesa is nearing completion, Valve have launched a wee patch for their pretty okay or whatever vintage FPS. The patch fixes a few crashes and exploits, and hit other Half-Life engine games too, such as classic Counter-Strike. Given how much of modern PC games history connects to Half-Life and its mod scene, I’m glad Valve are still tinkering a little. Earlier this year, they finally got Half-Life an uncensored release in Germany too. … [visit site to read more]"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have updated the public release of Day of Defeat.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Half-Life gets new patch, almost 19 years after launch",
+                "content": "Though Half-Life [official site] is almost nineteen years old and its sanctioned fan remake Black Mesa is nearing completion, Valve have launched a wee patch for their pretty okay or whatever vintage FPS. The patch fixes a few crashes and exploits, and hit other Half-Life engine games too, such as classic Counter-Strike. Given how much of modern PC games history connects to Half-Life and its mod scene, I’m glad Valve are still tinkering a little. Earlier this year, they finally got Half-Life an uncensored release in Germany too. … [visit site to read more]"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic.\r\n\r\nChanges in this update are: \r\n\r\nFixed crash when entering certain malformed strings into the game console. Thanks to Marshal Webb from BackConnect, Inc for reporting this.\r\nFixed crash when loading a specially crafted malformed BSP file. Thanks to Grant Hernandez (@Digital_Cold) for reporting this.\r\nFixed malformed SAV files allowing arbitrary files to be written into the game folder. Thanks to Vsevolod Saj for reporting this.\r\nFixed a crash when quickly changing weapons that are consumable. Thanks to Sam Vanheer for reporting this.\r\nFixed crash when setting custom decals"
+            }
+        ]
+    },
+    {
+        "cluster_id": "C004",
+        "name": "Visual Enhancements",
+        "description": "Updates related to graphics, textures, and visual rendering.",
+        "single_notes": [
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We have released a Beta update for Day of Defeat. \r\nChanges in this update are: \r\nEnable detail textures for maps that support them"
+            }
+        ]
+    },
+    {
+        "cluster_id": "C005",
+        "name": "Platform & System Support",
+        "description": "Updates related to operating system support (e.g., Linux, Mac), specific device support (e.g., Steam Deck, VR), cloud services, content delivery systems (e.g., SteamPipe), and core rendering/system optimizations.",
+        "single_notes": [
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One",
+                "content": "An update has been released for Half-Life 2: Episode One\n\n- UI and Input support for Steam Deck verification."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One",
+                "content": "An update has been released for Half-Life 2: Episode One\n\n- UI and Input support for Steam Deck verification."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One",
+                "content": "An update has been released for Half-Life 2: Episode One\n\n- UI and Input support for Steam Deck verification."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "30",
+                "title": "Day of Defeat update released",
+                "content": "We are storming the beaches with updates for both Day of Defeat titles today. The update today makes both games officially available for Linux and converts both games to the new SteamPipe content delivery system for a faster and smoother patching process."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One",
+                "content": "An update has been released for Half-Life 2: Episode One\n\n- UI and Input support for Steam Deck verification."
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "380",
+                "title": "Half-Life 2: Episode One updated",
+                "content": "We have updated the public release of Half-Life 2: Episode One. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Half-Life 2: Episode One to the new SteamPipe content system, for optimized delivery of the game \r\nAdded support for Linux operating systems\r\nAdded support for Virtual Reality devices, in particular Oculus Rift\r\nNumerous bug fixes contributed by community members"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Update released",
+                "content": "We have updated the public release of Deathmatch Classic. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features.\r\n\r\nChanges in this update are: \r\n\r\nConverted Deathmatch Classic to the new SteamPipe content system, for optimized delivery of the game\r\nAdded support for Mac OS X and Linux operating systems \r\nEnabled Cloud support for save games \r\nImproved OpenGL rendering pipeline and output to leverage the capabilities in todays GPU\r\nNumerous bug fixes"
+            }
+        ]
+    },
+    {
+        "cluster_id": "C006",
+        "name": "Dedicated Server Updates",
+        "description": "Updates specifically for dedicated game servers, including configuration, file handling, and server-side security.",
+        "single_notes": [
+            {
+                "app_id": "30",
+                "title": "GoldSrc Dedicated Server Update Released",
+                "content": "Updates to the GoldSrc Dedicated Server have been released. The updates will be applied automatically when your Steam client is restarted. The major changes include:\n\nAdded sv_logsecret support\nAdded sv_filetransfermaxsize to limit the size of a file the game server will try to send to a client\nAdded halflife.wad and xeon.wad to the not allowed to download to a client list\nIncreased max heapsize of 128mbyte for the dedicated server, default to 40mb still\nAdded sv_allow_dlfile, if set to 1 and sv_downloadurl is set still allow local downloads\nchanged motd_write to only work if the process is running an active server and the command is from the console\nprevented several client redirection exploits when connecting to a server\nChanged \"Non-sprite set to glow!\\n\" debug console output to be dev only"
+            },
+            {
+                "app_id": "30",
+                "title": "GoldSrc Dedicated Server Update Released",
+                "content": "Updates to the GoldSrc Dedicated Server have been released. The updates will be applied automatically when your Steam client is restarted. The major changes include:\n\nAdded sv_logsecret support\nAdded sv_filetransfermaxsize to limit the size of a file the game server will try to send to a client\nAdded halflife.wad and xeon.wad to the not allowed to download to a client list\nIncreased max heapsize of 128mbyte for the dedicated server, default to 40mb still\nAdded sv_allow_dlfile, if set to 1 and sv_downloadurl is set still allow local downloads\nchanged motd_write to only work if the process is running an active server and the command is from the console\nprevented several client redirection exploits when connecting to a server\nChanged \"Non-sprite set to glow!\\n\" debug console output to be dev only"
+            },
+            {
+                "app_id": "30",
+                "title": "GoldSrc Dedicated Server Update Released",
+                "content": "Updates to the GoldSrc Dedicated Server have been released. The updates will be applied automatically when your Steam client is restarted. The major changes include:\n\nAdded sv_logsecret support\nAdded sv_filetransfermaxsize to limit the size of a file the game server will try to send to a client\nAdded halflife.wad and xeon.wad to the not allowed to download to a client list\nIncreased max heapsize of 128mbyte for the dedicated server, default to 40mb still\nAdded sv_allow_dlfile, if set to 1 and sv_downloadurl is set still allow local downloads\nchanged motd_write to only work if the process is running an active server and the command is from the console\nprevented several client redirection exploits when connecting to a server\nChanged \"Non-sprite set to glow!\\n\" debug console output to be dev only"
+            },
+            {
+                "app_id": "30",
+                "title": "GoldSrc Dedicated Server Update Released",
+                "content": "Updates to the GoldSrc Dedicated Server have been released. The updates will be applied automatically when your Steam client is restarted. The major changes include:\n\nAdded sv_logsecret support\nAdded sv_filetransfermaxsize to limit the size of a file the game server will try to send to a client\nAdded halflife.wad and xeon.wad to the not allowed to download to a client list\nIncreased max heapsize of 128mbyte for the dedicated server, default to 40mb still\nAdded sv_allow_dlfile, if set to 1 and sv_downloadurl is set still allow local downloads\nchanged motd_write to only work if the process is running an active server and the command is from the console\nprevented several client redirection exploits when connecting to a server\nChanged \"Non-sprite set to glow!\\n\" debug console output to be dev only"
+            }
+        ]
+    },
+    {
+        "cluster_id": "C007",
+        "name": "UI & Display Fixes",
+        "description": "Fixes for user interface elements, menus, and display issues.",
+        "single_notes": [
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            },
+            {
+                "app_id": "40",
+                "title": "Deathmatch Classic Beta updated",
+                "content": "We have released an update to Deathmatch Classic. This update contains the following:\r\n\r\nFixed 3rd party menus not displaying on the HUD"
+            }
+        ]
+    }
+]

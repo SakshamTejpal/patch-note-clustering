@@ -1,0 +1,16 @@
+# Ignore real environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VSCode settings (optional but common)
+.vscode/
+
+# Ignore macOS and Windows trash (safe defaults)
+.DS_Store
+Thumbs.db
+

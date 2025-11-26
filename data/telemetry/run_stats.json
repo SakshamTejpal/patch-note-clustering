@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-11-25T20:43:17.900687+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "13236",
+    "latency_sec": 67.195
+  },
+  {
+    "timestamp": "2025-11-25T20:55:00.286208+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "14383",
+    "latency_sec": 25.745
+  },
+  {
+    "timestamp": "2025-11-25T20:56:42.778548+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "12776",
+    "latency_sec": 34.134
+  },
+  {
+    "timestamp": "2025-11-25T23:26:41.638341+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "13968",
+    "latency_sec": 35.601
+  },
+  {
+    "timestamp": "2025-11-25T23:36:22.907448+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "14005",
+    "latency_sec": 41.22
+  },
+  {
+    "timestamp": "2025-11-25T23:41:11.827069+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "14005",
+    "latency_sec": 26.662
+  },
+  {
+    "timestamp": "2025-11-25T23:43:44.465118+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "12776",
+    "latency_sec": 37.347
+  },
+  {
+    "timestamp": "2025-11-26T02:57:12.033826+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "14266",
+    "latency_sec": 31.773
+  },
+  {
+    "timestamp": "2025-11-26T02:59:35.122007+00:00",
+    "mode": "Batch No: 1",
+    "input_chars": "14266",
+    "latency_sec": 36.02
+  }
+]
