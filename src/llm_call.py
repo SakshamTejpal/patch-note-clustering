@@ -13,7 +13,7 @@ def call_gemini(system_prompt: str, user_prompt: str, batch: int) -> str:
     print("Calling Gemini API...")
     full_prompt = system_prompt + "\n" + user_prompt
 
-    print(os.getenv("API_KEY"))
+    # print(os.getenv("API_KEY"))
     start_time = time.time()
     client = genai.Client(api_key=os.getenv("API_KEY"))
     response = client.models.generate_content(

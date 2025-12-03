@@ -24,8 +24,8 @@ def main(notes_dir: str = "data/notes", clusters_dir: str = "data/clusters/taxon
         system_prompt = preparer.system_prompt()
 
         # debugging
-        print(user_prompt)
-        print(system_prompt)
+        # print(user_prompt)
+        # print(system_prompt)
 
         response = call_gemini(system_prompt=system_prompt, user_prompt=user_prompt, batch=batch_counter)
         cleaned_response = HelperFunctions.extract_json(response) # Extract JSON from LLM response

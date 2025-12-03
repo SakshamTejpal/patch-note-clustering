@@ -34,17 +34,3 @@ class GameData:
             notes=notes
         )
     
-    # def to_dict(self):
-    #     return {
-    #         "appId": self.app_id,
-    #         "count": self.count,
-    #         "notes": [
-    #             {
-    #                 "title": note.title,
-    #                 "date": note.date,
-    #                 "url": note.url,
-    #                 "content": note.content
-    #             }
-    #             for note in self.notes
-    #         ]
-    #     }
